@@ -1,0 +1,16 @@
+﻿  test2_注释.cpp
+  test3_变量.cpp
+  test4_常量.cpp
+  test5_关键字.cpp
+  test6_命名.cpp
+  test10_转义字符.cpp
+  test11_字符串.cpp
+  test11_布尔类型.cpp
+  test12_数据输入.cpp
+  test1_初始.cpp
+  test7_整型.cpp
+  test8_关键字sizeof.cpp
+  test9_实型.cpp
+  正在生成代码...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+D:\c_code\test1\Debug\test1.exe : fatal error LNK1120: 1 个无法解析的外部命令
